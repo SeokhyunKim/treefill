@@ -1,4 +1,5 @@
 # treefill
+[![License](https://img.shields.io/badge/license-MIT-yellow.svg)](https://raw.githubusercontent.com/SeokhyunKim/treefill/master/LICENSE.txt)
 NetLogo simulation code for the paper "An optimal distributed trigger counting algorithm for large-scale networked systems".
 
 ## How to run
